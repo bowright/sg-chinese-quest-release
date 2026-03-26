@@ -7,5 +7,8 @@ Screenshots
 
 SG Chinese Quest is an Android practice app for Singapore primary school Higher Chinese character and word learning.
 
+### How to install
+For Android system, download using browser and enable `install from unknown sources`
+
 Download:
 - [Latest Release APK](../../releases/latest)
